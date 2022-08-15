@@ -1,0 +1,50 @@
+body{
+    background-color: #e2e7f1;
+  margin: 0;
+  
+}
+.logo{
+    margin-top: 20px;
+}
+.logo-s{
+    height: 80px;
+
+}
+.nav-bar{
+    margin-top: 3%;
+    padding-left: 2%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.title-name{
+    width: 50%;
+}
+.title{
+    color: rgb(0,0,0);
+    display: flex;
+    font-size: 40px;
+    font-family: 'Silkscreen', cursive;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    
+}
+.nav-item{
+    width: 40%;
+
+}
+.nav-item a{
+    font-family: 'Silkscreen',cursive;
+    color: rgb(0,0,0);
+    float: left;
+    margin-left: 10%;
+    text-decoration: none;
+    font-size:1.3vw;
+    display: flex;
+}
+.nav-item a:hover{
+    color: rgb(98, 169, 202);
+    background-color: black;
+}
